@@ -1,2 +1,2 @@
 # Manuscripts
-Collection of scripts and raw data relative to my manuscripts.
+Collection of scripts relative to my manuscripts.
